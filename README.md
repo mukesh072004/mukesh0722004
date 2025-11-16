@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mukesh Kumar 👋</h1>
 <p align="center">
-  <strong>Data Enthusiast · AI/ML Engineer · Data Scientist · AI Consultant</strong>
+  <strong>AI/ML Engineer & Data Enthusiast</strong>
 </p>
 
 ---
@@ -38,7 +38,7 @@ A complete end-to-end system that:
 - Implements a Retrieval-Augmented Generation pipeline  
 - Includes a Streamlit UI for querying  
 
-🔗 *[Add GitHub repo link here]*
+🔗 
 
 ---
 
@@ -49,7 +49,7 @@ A high-fidelity audio demo project focused on:
 - Metadata extraction  
 - Fast, clean UI/UX  
 
-🔗 *[Add GitHub repo link here]*
+🔗 
 
 ---
 
@@ -63,9 +63,9 @@ A high-fidelity audio demo project focused on:
 ---
 
 ## 📫 Contact
-- **Email:** yourmail@example.com  
-- **LinkedIn:** *Add link here*  
-- **Portfolio (optional):** *Add link if you have one*
+- **Email:** mukeshkumar.04@outlook.com  
+- **LinkedIn:** *www.linkedin.com/in/mukesh-kumar04*  
+
 
 ---
 
